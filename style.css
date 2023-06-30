@@ -1,0 +1,42 @@
+* {
+	margin:0;
+	padding:0;
+}
+
+body {
+	font-family: 'Montserrat', sans-serif;
+}
+
+#banner {
+	width:100%;
+    height:100vh;
+}
+
+#bannerDesc > p {
+    font-size : 25px;
+    line-height: 30px;
+    font-weight: bold;
+}
+
+#bannerDesc > h3 {
+    font-size:32px;
+    line-height: 40px;
+}
+
+.name {
+    font-size: 20px;
+    letter-spacing: 10px;
+}
+
+.map {
+    height:220px;
+}
+
+.post {
+    width: 220px;
+    height:294px;
+    object-fit: cover;
+    border-radius: 20px;
+}
+
+
